@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbos0959/starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbos0959/starter/issues"
+  },
+  "homepage": "https://github.com/abbos0959/starter#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
